@@ -12,6 +12,7 @@ import java.util.Scanner;
  * IDE's terminal.
  */
 public class GameMenu {
+    
     public static void main(String[] args) {
         Scanner userInputScanner = new Scanner(System.in);
         GameService gameService = new GameService();
